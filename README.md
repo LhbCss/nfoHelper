@@ -1,5 +1,4 @@
 # nfoHelper
-# nfoHelper
 
 ##### 基于PythonOS库实现的小工具！
 
